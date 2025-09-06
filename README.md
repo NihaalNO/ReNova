@@ -53,12 +53,15 @@ npm start
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Styling**: CSS-in-JS with responsive design principles
+- **Frontend**: Next.js (React-based), HTML5, CSS3, JavaScript (ES6+)
+- **Styling**:Tailwind CSS 
 - **State Management**: React Context API
 - **Routing**: React Router
-- **Build Tool**: Webpack
 - **Backend**: Node.js with Express (for demo purposes)
+- **Database**: Supabase (PostgreSQL)
+-**Authentication**: Firebase Auth
+-**File Storage**: Supabase Storage (for images)
+-**API**: Supabase built-in APIs with Next.js API routes if needed
 
 ## 📱 Usage
 
